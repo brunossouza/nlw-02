@@ -6,4 +6,6 @@
 
 [Layout Proffy](docs/LAYOUT.md)
 
+[Desafios](docs/DESAFIOS.md)
+
 > DATA: 03/08 - 07/08/2020
